@@ -1,4 +1,4 @@
-**Spam Message Detection**
+## Spam Message Detection
 
 **Overview:**
 This project is dedicated to creating a machine learning model for the detection of spam messages. Given the rising tide of unsolicited and potentially harmful messages, it's imperative to establish an effective system to filter out such content. This project utilizes natural language processing (NLP) methods and machine learning algorithms to categorize messages as either spam or non-spam.
