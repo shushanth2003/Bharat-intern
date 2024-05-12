@@ -46,8 +46,7 @@ Evaluate the trained model using the provided evaluation scripts or notebooks.
 
 **Deployment:**
 Integrate the trained model into an application or service for real-time spam detection.
-![Uploading Screenshot 2024-05-12 102144.png…]()
-
+![Screenshot 2024-05-12 102144](https://github.com/shushanth2003/Bharat-intern/assets/103485945/00e90869-512a-46b5-ab9c-1994d9ca27d5)
 
 **Dependencies:**
 - Python 3.x
